@@ -47,7 +47,7 @@ Essas experiências complementam minha formação técnica e fortalecem meu raci
 ### 📫 Contato
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-ramos-t/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vmramoste/)
 [![GitHub](https://img.shields.io/badge/Portf%C3%B3lio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vmramoste)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vmramos.te@gmail.com)
 
